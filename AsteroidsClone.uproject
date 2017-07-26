@@ -18,6 +18,10 @@
 		{
 			"Name": "GearVR",
 			"Enabled": false
+		},
+		{
+			"Name": "CodeView",
+			"Enabled": true
 		}
 	]
 }
